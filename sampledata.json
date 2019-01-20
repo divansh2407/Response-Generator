@@ -1,0 +1,4 @@
+{ "_id" : ObjectId("565aa2adcd07aac078ff43ba"), "helped" : false, "fullName" : "Vishy Anand", "coords" : { "lat" : 13, "lng" : 80.25 }, "report" : "Need to rescue 5 family members in Adyar. We are stranded in 7 ft water. Please help.", "phone" : "9837933458" }
+{ "_id" : ObjectId("565aa2decd07aac078ff43bb"), "helped" : false, "fullName" : "Mazhar", "coords" : { "lat" : 12.93, "lng" : 80.11 }, "report" : "3 People stranded. Help", "phone" : "8837933458" }
+{ "_id" : ObjectId("565aa360cd07aac078ff43bc"), "helped" : false, "fullName" : "Mary", "coords" : { "lat" : 12.98, "lng" : 80.22 }, "report" : "Heavy rains since yesterday. Urgently need food for 150 people. Location: backside RTO office at Velachery. Please help", "phone" : "8768933459" }
+{ "_id" : ObjectId("565aa3b4cd07aac078ff43bd"), "helped" : false, "fullName" : "Amma", "coords" : { "lat" : 13.0348, "lng" : 80.1559 }, "report" : "Our area heavily flooded. Need blankets for 50 people.", "phone" : "7768933459" }

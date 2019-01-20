@@ -1,0 +1,16 @@
+/* CSS declarations go here */
+.big-distress-ui #trigger-button {
+  margin-top: 3em;
+}
+
+.map-container {
+  width: 800px;
+  max-width: 100%;
+  height: 500px;
+}
+
+.map-app-container {
+  width: 250px;
+  height: 250px;
+  max-width: 100%;
+}

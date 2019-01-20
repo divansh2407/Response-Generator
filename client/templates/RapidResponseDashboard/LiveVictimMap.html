@@ -1,0 +1,10 @@
+<template name="LiveVictimMap">
+  <div class="col-md-10 col-md-offset-1">
+    <div class="map-container" style="margin-top:30px;">
+      {{> googleMap name="liveVictimMap" options=liveVictimMapOptions}}
+    </div>
+    <p class="text-center">
+      <strong>Live</strong>: there are {{victimsAwaitingHelpCount}} people awaiting our help.
+    </p>
+  </div>
+</template>
